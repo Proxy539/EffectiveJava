@@ -1,7 +1,4 @@
 package chapter3;
-
-import javax.swing.plaf.ComponentInputMapUIResource;
-
 public class HashTable implements Cloneable {
     private Entry[] buckets;
 
